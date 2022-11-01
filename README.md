@@ -32,8 +32,8 @@ A **Data Scientist and Machine Learning Engineer** 🚀 from Italy, currently li
 **About Me!**
 
 - 👨🏽‍💻 I’m currently working as a Machine Learning Engineer at Xccelerated.
-- 🌱 I've been applying Data Science, Machine Learning and Python Development for over 5 years. I’m currently exploring technologies as kubernetes, PySpark, Spark, Docker, Airflow.... 
-- 🤔 My interests are web-automation, video processing and developing some useful and cool stuff xD
+- 🤔  I've been applying Data Science, Machine Learning and Python Development for over 5 years. 
+- 🌱I’m currently exploring technologies as kubernetes, PySpark, Spark, Docker, Airflow.... 
 - 💼 I’m pursuing a Bachelor's degree in Computer Science.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [zamran.butt.1@gmail.com](mailto:zamran.butt.1@gmail.com).
