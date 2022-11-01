@@ -34,7 +34,7 @@ A **Data Scientist and Machine Learning Engineer** 🚀 from Italy, currently li
 - 👨🏽‍💻 I’m currently working as a Machine Learning Engineer at Xccelerated.
 - 🤔  I've been applying Data Science, Machine Learning and Python Development for over 5 years. 
 - 🌱I’m currently exploring technologies as kubernetes, PySpark, Spark, Docker, Airflow.... 
-- 💼 I’m pursuing a Bachelor's degree in Computer Science.
+- 💼 I’m graduated in Data Science.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [dlagano@xccelerated.io](mailto:dlagano@xccelerated.io).
 - 📝 See my [Curriculum Vitae]() to get more info.
