@@ -42,6 +42,14 @@ A **Data Scientist and Machine Learning Engineer** 🚀 from Italy, currently li
 Love to create and contribute to open source projects on 💡 [Github](https://github.com/DavideLagano) and share knowledge on 🏢 [LinkedIn](https://nl.linkedin.com/in/davide-lagano?trk=people_directory).
 
 
+<code><img height="20" src="https://neuraspike.com/wp-content/uploads/2020/11/deeplearning-logo-meetup.png"></code> At the moment I am following a Deep Learning Specialization provided on Coursera, called ‘deeplearning.ai’. It consists out of five courses:
+-	Neural Network and Deep Learning
+-	Improving Deep Neural Networks: Hyperparameter Tuning, Regularization, and Optimization
+-	Structuring Machine Learning Projects
+-	Convolutional Neural Networks
+-	Sequence Models
+
+
 **Languages and Tools:**  
 
 
@@ -58,14 +66,6 @@ Love to create and contribute to open source projects on 💡 [Github](https://g
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-
-<code><img height="20" src="https://neuraspike.com/wp-content/uploads/2020/11/deeplearning-logo-meetup.png"></code> At the moment I am following a Deep Learning Specialization provided on Coursera, called ‘deeplearning.ai’. It consists out of five courses:
--	Neural Network and Deep Learning
--	Improving Deep Neural Networks: Hyperparameter Tuning, Regularization, and Optimization
--	Structuring Machine Learning Projects
--	Convolutional Neural Networks
--	Sequence Models
 
 <img src="https://github-readme-stats.vercel.app/api?username=DavideLagano&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Davide's GitHub Stats">
 
