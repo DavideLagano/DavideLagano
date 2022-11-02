@@ -31,10 +31,10 @@ A **Data Scientist and Machine Learning Engineer** 🚀 from Italy, currently li
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently working as a Machine Learning Engineer at Xccelerated.
-- 🤔  I've been applying Data Science, Machine Learning and Python Development for over 5 years. 
+- 💼 I’m currently working as a Machine Learning Engineer at Xccelerated.
+- 👨🏻‍💻 I've been applying Data Science, Machine Learning and Python Development for over 5 years. 
 - 🌱I’m currently exploring technologies as kubernetes, PySpark, Spark, Docker, Airflow.... 
-- 💼 I’m graduated in Data Science.
+- 💎 I’m graduated in Data Science.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [dlagano@xccelerated.io](mailto:dlagano@xccelerated.io).
 - 📝 See my [Curriculum Vitae]() to get more info.
@@ -44,6 +44,7 @@ A **Data Scientist and Machine Learning Engineer** 🚀 from Italy, currently li
 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://download.logo.wine/logo/R_(programming_language)/R_(programming_language)-Logo.wine.png"></code>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
