@@ -39,12 +39,7 @@ A **Data Scientist and Machine Learning Engineer** 🚀 from Italy, currently li
 - 📫 Email me at [dlagano@xccelerated.io](mailto:dlagano@xccelerated.io).
 - 📝 See my [Curriculum Vitae]() to get more info.
 
-Love to create and contribute to open source projects on [Github](https://github.com/DavideLagano) and share knowledge on [LinkedIn](https://nl.linkedin.com/in/davide-lagano?trk=people_directory).
-
-📫 How to find me:
-💡 Medium articles
-🏢 LinkedIn
-
+Love to create and contribute to open source projects on 💡 [Github](https://github.com/DavideLagano) and share knowledge on 🏢 [LinkedIn](https://nl.linkedin.com/in/davide-lagano?trk=people_directory).
 
 
 **Languages and Tools:**  
