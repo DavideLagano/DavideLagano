@@ -48,7 +48,7 @@ A **Data Scientist and Machine Learning Engineer** 🚀 from Italy, currently li
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://developers.redhat.com/sites/default/files/styles/article_feature/public/blog/2014/05/homepage-docker-logo.png?itok=zx0e-vcP"></code>
-<code><img height="20" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2019/01/Kubernetes_New.png?zoom=2&resize=730%2C389"></code>
+<code><img height="20" src="https://i0.wp.com/softwareengineeringdaily.com/wp-content/uploads/2019/01/Kubernetes_New.png?resize=730%2C389&ssl=1"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/500px-Apache_Spark_logo.svg.png"></code>
 <code><img height="20" src="https://kafka.apache.org/images/apache-kafka.png"></code>
 
