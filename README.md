@@ -31,7 +31,7 @@ A **Data Scientist and Machine Learning Engineer** 🚀 from Italy, currently li
 
 **About Me!**
 
-- 💼 I’m currently working as a Machine Learning Engineer at Xccelerated.
+- 💼 I’m currently working as a Machine Learning Engineer at Enza Zaden.
 - 👨🏻‍💻 I've been applying Data Science, Machine Learning and Python Development for over 5 years. 
 - 🌱I’m currently exploring technologies as kubernetes, PySpark, Spark, Docker, Airflow.... 
 - 💎 I’m graduated in Data Science.
