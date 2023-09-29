@@ -31,23 +31,24 @@ A **Data Scientist and Machine Learning Engineer** 🚀 from Italy, currently li
 
 **About Me!**
 
-- 💼 I’m currently working as a Machine Learning Engineer at Enza Zaden.
+- 💼 I’m currently working as a Machine Learning Engineer.
 - 👨🏻‍💻 I've been applying Data Science, Machine Learning and Python Development for over 5 years. 
-- 🌱I’m currently exploring technologies as kubernetes, PySpark, Spark, Docker, Airflow.... 
+- 🌱I’m currently exploring technologies as Kubernetes, PySpark, Spark, Docker, Airflow.... 
 - 💎 I’m graduated in Data Science.
-- 💬 Ask me about anything, I love to answer!
-- 📫 Text me on LinkedIn if you want to get in contact.
+- 💬 Ask me about anything, I love to answer! Text me on LinkedIn if you want to get in contact.
 - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/12QG2mFp77n5Spb7-fhWi2DDtLt5kjPm8/view?usp=sharing) to get more info.
 
 Love to create and contribute to open source projects on 💡 [Github](https://github.com/DavideLagano) and share knowledge on 🏢 [LinkedIn](https://nl.linkedin.com/in/davide-lagano?trk=people_directory).
 
 
-<code><img height="20" src="https://neuraspike.com/wp-content/uploads/2020/11/deeplearning-logo-meetup.png"></code> At the moment I am following a Deep Learning Specialization provided on Coursera, called ‘deeplearning.ai’. It consists out of five courses:
+<code><img height="20" src="https://neuraspike.com/wp-content/uploads/2020/11/deeplearning-logo-meetup.png"></code> I got the Deep Learning Specialization provided from deeplearning.ai. It consists out of five courses:
 -	Neural Network and Deep Learning
 -	Improving Deep Neural Networks: Hyperparameter Tuning, Regularization, and Optimization
 -	Structuring Machine Learning Projects
 -	Convolutional Neural Networks
 -	Sequence Models
+
+I also got the Microsoft Azure Fundamentals certification.
 
 
 **Languages and Tools:**  
